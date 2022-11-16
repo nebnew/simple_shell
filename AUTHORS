@@ -1,4 +1,5 @@
 # This file comprises of the people that contributed to this repository, thus:
+# For how it is generated, see `hack/generate-authors.sh`.
 
-Nebiyat Gebremichael,
+Nebiyat Gebremichae <https://github.com/nebnew>
 Bereket Zelalem
